@@ -1,0 +1,16 @@
+Functionaliteiten filmprogramma
+
+Minimumvereisten:
+
+
+- filmlijst opvragen
+- films toevoegen
+
+
+
+Toegevoegde vereisten:
+
+- Filmmenu opgeven:
+        - 1. Films selecteren
+        - 2. Films verwijderen
+        - 3. Filmdetails opvragen van een film (korte inhoud, regisseur, acteurs, releasejaar)
